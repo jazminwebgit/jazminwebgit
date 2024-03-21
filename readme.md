@@ -16,4 +16,11 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 ## Skills
 
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and honing my skills to deliver innovative solutions that propel projects forward.
+- Innovative Problem-Solving: I thrive on tackling complex challenges with innovative solutions, constantly pushing boundaries to deliver exceptional results.
+- Team Collaboration: I excel in collaborative environments, leveraging strong communication skills to actively engage with team members and drive collective success through shared insights and diverse perspectives.
+
+## Languages
+- English
+- French
+- Spanish
